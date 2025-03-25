@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		0306FB952D91C1C70087CBFF /* personal-schedule.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "personal-schedule.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0306FB952D91C1C70087CBFF /* PersonalSchedule.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PersonalSchedule.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0306FB972D91C1C70087CBFF /* personal-schedule */ = {
+		0306FB972D91C1C70087CBFF /* PersonalSchedule */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "personal-schedule";
+			path = PersonalSchedule;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		0306FB8C2D91C1C70087CBFF = {
 			isa = PBXGroup;
 			children = (
-				0306FB972D91C1C70087CBFF /* personal-schedule */,
+				0306FB972D91C1C70087CBFF /* PersonalSchedule */,
 				0306FB962D91C1C70087CBFF /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		0306FB962D91C1C70087CBFF /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0306FB952D91C1C70087CBFF /* personal-schedule.app */,
+				0306FB952D91C1C70087CBFF /* PersonalSchedule.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0306FB942D91C1C70087CBFF /* personal-schedule */ = {
+		0306FB942D91C1C70087CBFF /* PersonalSchedule */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0306FBA32D91C1C80087CBFF /* Build configuration list for PBXNativeTarget "personal-schedule" */;
+			buildConfigurationList = 0306FBA32D91C1C80087CBFF /* Build configuration list for PBXNativeTarget "PersonalSchedule" */;
 			buildPhases = (
 				0306FB912D91C1C70087CBFF /* Sources */,
 				0306FB922D91C1C70087CBFF /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				0306FB972D91C1C70087CBFF /* personal-schedule */,
+				0306FB972D91C1C70087CBFF /* PersonalSchedule */,
 			);
-			name = "personal-schedule";
+			name = PersonalSchedule;
 			packageProductDependencies = (
 			);
 			productName = "personal-tracker";
-			productReference = 0306FB952D91C1C70087CBFF /* personal-schedule.app */;
+			productReference = 0306FB952D91C1C70087CBFF /* PersonalSchedule.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0306FB902D91C1C70087CBFF /* Build configuration list for PBXProject "personal-schedule" */;
+			buildConfigurationList = 0306FB902D91C1C70087CBFF /* Build configuration list for PBXProject "PersonalSchedule" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0306FB942D91C1C70087CBFF /* personal-schedule */,
+				0306FB942D91C1C70087CBFF /* PersonalSchedule */,
 			);
 		};
 /* End PBXProject section */
@@ -251,7 +251,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"personal-schedule/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"PersonalSchedule/Preview Content\"";
 				DEVELOPMENT_TEAM = H4H3RQ94Q3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -280,7 +280,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"personal-schedule/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"PersonalSchedule/Preview Content\"";
 				DEVELOPMENT_TEAM = H4H3RQ94Q3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -305,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0306FB902D91C1C70087CBFF /* Build configuration list for PBXProject "personal-schedule" */ = {
+		0306FB902D91C1C70087CBFF /* Build configuration list for PBXProject "PersonalSchedule" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0306FBA12D91C1C80087CBFF /* Debug */,
@@ -314,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0306FBA32D91C1C80087CBFF /* Build configuration list for PBXNativeTarget "personal-schedule" */ = {
+		0306FBA32D91C1C80087CBFF /* Build configuration list for PBXNativeTarget "PersonalSchedule" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0306FBA42D91C1C80087CBFF /* Debug */,

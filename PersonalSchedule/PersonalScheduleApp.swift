@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import SwiftData
 import UserNotifications
 
 @main
@@ -23,6 +24,6 @@ struct PersonalScheduleApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
-        }
+        }.modelContainer(for: ReminderModel.self)
     }
 }
